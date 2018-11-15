@@ -1,0 +1,14 @@
+---
+version: '3.4'
+
+services:
+  ruby-parser:
+    build:
+      context: "."
+    command: /bin/true
+    volumes:
+      # - ".:/usr/src/app"
+      - ./pkg:/usr/src/app/pkg
+
+# volumes:
+#  pkg: {}

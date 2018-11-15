@@ -1,7 +1,7 @@
 # -*- ruby -*-
-
 $:.unshift "../../hoe/dev/lib"
 
+#require "bundler/gem_tasks"
 require "rubygems"
 require "hoe"
 

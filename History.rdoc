@@ -1,3 +1,6 @@
+=== 3.11.1 / 2018-11-14
+* Bump version
+
 === 3.11.0 / 2018-02-14
 
 * 1 major enhancement:
